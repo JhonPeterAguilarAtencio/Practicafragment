@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practicafragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contenidoTerror">Historias de miedo para contar en la oscuridad (en inglés, Scary Stories to Tell in the Dark)
+        es una película estadounidense de terror dirigida por André Øvredal, a partir de un guion coescrito por Dan y Kevin
+        Hageman, y una historia de Guillermo del Toro. Se basa en la serie de libros infantiles del mismo nombre de Alvin Schwartz.
+        La historia trata de un grupo de jóvenes que han sido maldecidos por un libro que relata historias de terror que intentan
+        asesinarlos y que está relacionado con un misterio que involucra una serie de muertes terroríficas en su pequeña ciudad natal
+        hace décadas</string>
+    <string name="contenidocomedia">Dusty (Mark Wahlberg) y Brad (Will Ferrell) se han unido para ofrecerle a sus hijos
+        la Navidad perfecta. Este nuevo equipo se pone a prueba cuando el papá gruñón de Dusty (Mel Gibson) y el papá ultra
+        cariñoso y tierno de Brad (John Lithgow) llegan para convertir a las vacaciones decembrinas en un completo caos. Secuela
+        de "Padres por desigual".</string>
+    <string name="Comedia">Guerra de papás 2</string>
+    <string name="Terror">historias de miedo para contar en la oscuridad</string>
+</resources>
